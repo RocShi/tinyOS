@@ -1,0 +1,38 @@
+Dependencies for Project 'tinyOS', Target 'tinyOS': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x59940323)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (Source\tinyOS.h)(0x5993FCC4)
+I (D:\Work\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (Source\tLib.h)(0x5993E6EC)
+I (Source\tConfig.h)(0x599053DF)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x562075B4)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D41F08)
+F (.\Source\switch.c)(0x5993FB6E)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\switch.o --omf_browse .\objects\switch.crf --depend .\objects\switch.d)
+I (Source\tinyOS.h)(0x5993FCC4)
+I (D:\Work\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (Source\tLib.h)(0x5993E6EC)
+I (Source\tConfig.h)(0x599053DF)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x562075B4)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D41F08)
+F (.\Source\tBitmap.c)(0x59900F8D)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\tbitmap.o --omf_browse .\objects\tbitmap.crf --depend .\objects\tbitmap.d)
+I (Source\tLib.h)(0x5993E6EC)
+I (D:\Work\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (.\Source\tList.c)(0x5993FB94)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\tlist.o --omf_browse .\objects\tlist.crf --depend .\objects\tlist.d)
+I (Source\tLib.h)(0x5993E6EC)
+I (D:\Work\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+F (RTE\Device\ARMCM3\startup_ARMCM3.s)(0x50B2CC4C)(--cpu Cortex-M3 --li -g --apcs=interwork -I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "ARMCM3 SETA 1"--list .\listings\startup_armcm3.lst --xref -o .\objects\startup_armcm3.o --depend .\objects\startup_armcm3.d)
+F (RTE\Device\ARMCM3\system_ARMCM3.c)(0x598C4786)(-c --cpu Cortex-M3 --li -g -O0 --apcs=interwork --split_sections -I ../Source-I"F:\Graduate Document\独立\开源&智能硬件&编程\3. Linux&嵌入式\2 自己动手从0到1写嵌入式操作系统-李述铜\tinyOS\C3.06\RTE"-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-ID:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include-D__UVISION_VERSION="521" -D_RTE_ -DARMCM3-o .\objects\system_armcm3.o --omf_browse .\objects\system_armcm3.crf --depend .\objects\system_armcm3.d)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\ARMCM3.h)(0x562075B4)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm3.h)(0x5625B70C)
+I (D:\Work\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E3E26)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x5625A350)
+I (D:\Work\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h)(0x55D41F08)

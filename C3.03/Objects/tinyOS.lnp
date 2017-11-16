@@ -1,0 +1,10 @@
+--cpu Cortex-M3
+".\objects\main.o"
+".\objects\switch.o"
+".\objects\tbitmap.o"
+".\objects\startup_armcm3.o"
+".\objects\system_armcm3.o"
+--strict --scatter ".\Objects\tinyOS.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\tinyOS.map" -o .\Objects\tinyOS.axf
